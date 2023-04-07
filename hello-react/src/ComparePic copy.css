@@ -1,0 +1,17 @@
+.picture-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0;
+  padding: 0;
+}
+
+.picture img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.picture p {
+  font-size: 12px;
+  margin-top: 10px;
+}
